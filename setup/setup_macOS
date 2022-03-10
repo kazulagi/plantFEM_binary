@@ -1,0 +1,17 @@
+#!/bin/sh
+
+brew install  gcc
+brew install  open-mpi
+brew install  python3
+brew install  gmsh
+brew install  gnuplot
+brew install curl
+#curl https://bootstrap.pypa.io/get-pip.py -o ~/get-pip.py
+#python3 ~/get-pip.py
+#pip install pillow
+#pip install numpy
+#pip install opencv-python
+#pip install scipy
+#pip install matplotlib
+#pip install jupyter
+#
