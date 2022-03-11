@@ -1,5 +1,4 @@
 #!/bin/sh
-rm -r inc
 rm plantFEM_binary
 rm hostfile
 rm ./GetPixcel*.py
